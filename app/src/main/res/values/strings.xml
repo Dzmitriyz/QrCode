@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">QrCode</string>
+    <string name="share">Поделиться</string>
+    <string name="hint_qr_code_generation">Введите текст для генерации QR code</string>
+    <string name="button_qr_code_generation">Генерировать QR CODE</string>
+    <string name="share_qr">Поделитсья QR CODE</string>
+
 </resources>
